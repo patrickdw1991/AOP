@@ -10,4 +10,6 @@ public class BagageRobotAgent extends Agent {
 	protected void setup() {
 		System.out.println("Hello! "+getAID().getName()+" is ready.");
 		}
+	
+	//Chris
 }
